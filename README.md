@@ -8,10 +8,7 @@ thirdweb + nextjs
 
 ### Step
 
-First, run the development server:
-
-- [Learn Next.js](https://portal.thirdweb.com/react/v5) - an interactive Next.js tutorial.
-- [Thirdweb Documentation](https://nextjs.org/docs) - learn about thirdweb features and API.
+First
 
 ```bash
 npx thirdweb create contract
